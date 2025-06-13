@@ -48,3 +48,8 @@ Préparation :
     Si vous aimez les cookies moelleux, sortez-les du four quand le centre est encore légèrement tendre.
 
 Bon appétit ! 😋💚
+
+________________________________________________________________________________________________________________________________
+
+Pour désinxer un fichier déjà présent: 
+git rm --cached monfichier.txt
